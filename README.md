@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CodeItOfficial.
+- 👀 I’m interested in Web developement.
+- 🌱 I’m currently learning JavaScript
+- 💞️ Consider checking my YouTube Channel "CodeIt"
+- ⚡ Fun fact: A website a day, keeps unemployement away! So what are you waiting for... Go GRIND!
